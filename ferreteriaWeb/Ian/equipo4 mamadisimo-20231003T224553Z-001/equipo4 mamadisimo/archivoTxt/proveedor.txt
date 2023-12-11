@@ -1,0 +1,2 @@
+{ "ClaveProveedor"  :  1, "Nombre"  :  "Juan", "RazonSocial"  :  "Ferreteria Industrial", "RFC"  :  "LOMP8206281HO", "Direccion"  :  "vista del sol", "Telefono"  :  4493046049, "Tipo"  :  1 }
+{ "ClaveProveedor"  :  10010, "Nombre"  :  "Ivan Guerrero", "RazonSocial"  :  "ferreteria arqueros", "RFC"  :  "GUBI07AV1OS", "Direccion"  :  "Vista del sol crepusculo", "Telefono"  :  4494610884, "Tipo"  :  1 }

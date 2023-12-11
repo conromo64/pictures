@@ -1,0 +1,4 @@
+{ "CveTipoUnidad" : 1, "DescripcionUnidad" : "Gramos" }
+{ "CveTipoUnidad" : 2, "DescripcionUnidad" : "Litros" }
+{ "CveTipoUnidad" : 3, "DescripcionUnidad" : "Piezas" }
+{ "CveTipoUnidad" : 4, "DescripcionUnidad" : "Saco" }

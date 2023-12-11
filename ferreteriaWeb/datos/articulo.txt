@@ -1,0 +1,6 @@
+{"claveArticulo" : 1,"descripcion"  : "Articulo 1","costo" : 1.0,"precioMayoreo" : 1.0,"precioMenudeo" : 1.0,"existenciaAlmacen" : 1,"existenciaPisoVenta" : 1,"tipoArticulo" : 1}
+{"claveArticulo" : 2,"descripcion"  : "Articulo 2","costo" : 2.0,"precioMayoreo" : 2.0,"precioMenudeo" : 2.0,"existenciaAlmacen" : 2,"existenciaPisoVenta" : 2,"tipoArticulo" : 2}
+{"claveArticulo" : 3,"descripcion"  : "Articulo 3","costo" : 1.0,"precioMayoreo" : 1.0,"precioMenudeo" : 1.0,"existenciaAlmacen" : 1,"existenciaPisoVenta" : 1,"tipoArticulo" : 1}
+{"claveArticulo" : 4,"descripcion"  : "Articulo 4","costo" : 2.0,"precioMayoreo" : 2.0,"precioMenudeo" : 2.0,"existenciaAlmacen" : 2,"existenciaPisoVenta" : 2,"tipoArticulo" : 2}
+{"claveArticulo" : 5,"descripcion"  : "Articulo 5","costo" : 1.0,"precioMayoreo" : 1.0,"precioMenudeo" : 1.0,"existenciaAlmacen" : 1,"existenciaPisoVenta" : 1,"tipoArticulo" : 1}
+{"claveArticulo" : 6,"descripcion"  : "Articulo 6","costo" : 2.0,"precioMayoreo" : 2.0,"precioMenudeo" : 2.0,"existenciaAlmacen" : 2,"existenciaPisoVenta" : 2,"tipoArticulo" : 2}

@@ -1,0 +1,7 @@
+{
+    'page': 1, 
+    'results': [
+    {'adult': False, 'backdrop_path': '/9PqD3wSIjntyJDBzMNuxuKHwpUD.jpg', 'genre_ids': [16, 35, 10751], 'id': 1075794, 'original_language': 'en', 'original_title': 'Leo', 'overview': 'Leo, un lagarto hastiado de 74 años, ha estado atrapado en el mismo salón de clases de Florida durante décadas con su compañera de terrario, la tortuga. Cuando descubre que sólo le queda un año de vida, planea escapar para experimentar la vida en el exterior, pero en lugar de eso queda atrapado en los problemas de sus ansiosos estudiantes, incluido un profesor sustituto increíblemente malo.', 'popularity': 1828.905, 'poster_path': '/hs41WYhEuaq4PaBbtaoCfGFEebi.jpg', 'release_date': '2023-11-17', 'title': 'Leo', 'video': False, 'vote_average': 7.7, 'vote_count': 308}, 
+    {'adult': False, 'backdrop_path': '/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg', 'genre_ids': [18, 36], 'id': 872585, 'original_language': 'en', 'original_title': 'Oppenheimer', 'overview': "Película sobre el físico J. Robert Oppenheimer y su papel como desarrollador de la bomba atómica. Basada en el libro 'American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer' de Kai Bird y Martin J. Sherwin.", 'popularity': 1142.284, 'poster_path': '/ncKCQVXgk4BcQV6XbvesgZ2zLvZ.jpg', 'release_date': '2023-07-19', 'title': 'Oppenheimer', 'video': False, 'vote_average': 8.153, 'vote_count': 5069}
+]
+}

@@ -1,0 +1,22 @@
+<html>
+    <body>
+        <h1 style="color: red">
+            <b>plantilla nueva :)</b>
+            <p>El nombre del profesor es: {{persona.nombre}}</p>
+            <p>El apellido del profesor es: {{persona.apellido}}</p>
+            <p>la fecha es: {{ahora.date}}</p>
+            <p><strong>Contenido de la lista </strong></p>
+            <p>
+                <ul>
+                {%if temas%}
+                    {% for tema in temas %}
+                        <li>{{tema.upper}}</li>
+
+                    {% endfor %}
+                {% else %}
+                    <p>No hay temas aun</p>
+                {% endif%}
+            </p>
+        </h1>
+    </body>
+</html>

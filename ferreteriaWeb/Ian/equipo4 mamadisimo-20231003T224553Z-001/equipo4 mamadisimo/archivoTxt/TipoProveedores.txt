@@ -1,0 +1,4 @@
+{ "CveTipoProveedor" : 1, "DescripcionTipoProveedor" : "Fabricantes" }
+{ "CveTipoProveedor" : 2, "DescripcionTipoProveedor" : "Mayorista" }
+{ "CveTipoProveedor" : 3, "DescripcionTipoProveedor" : "Minorista" }
+{ "CveTipoProveedor" : 4, "DescripcionTipoProveedor" : "Distribuidor" }

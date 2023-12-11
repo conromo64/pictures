@@ -1,0 +1,3 @@
+{ "CveTipoArticulo" : 1, "DescripcionTipoArticulo" : "Ferreteria" }
+{ "CveTipoArticulo" : 2, "DescripcionTipoArticulo" : "Herramientas" }
+{ "CveTipoArticulo" : 3, "DescripcionTipoArticulo" : "Tlapaleria" }

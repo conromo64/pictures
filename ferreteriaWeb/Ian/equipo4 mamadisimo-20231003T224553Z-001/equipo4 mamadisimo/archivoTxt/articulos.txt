@@ -1,0 +1,1 @@
+{ "ClaveArticulo"  :  1, "Descripcion"  :  "Martillo", "Costo"  :  80.9, "PrecioMayoreo"  :  100.9, "PrecioMenudeo"  :  120.5, "ExistenciaAlmacen"  :  20, "ExistenciaPisoVenta"  :  10, "CveTipoUnidad"  :  2,"CveTipoProveedor"  :  1, "CveTipoArticulo"  :  1 }

@@ -1,0 +1,1 @@
+{ "numControl" : 1, "nombre" : "Gael", "apPaterno" : "Ruiz", "apMaterno" : "Ruiz", "tipo" : 2 }

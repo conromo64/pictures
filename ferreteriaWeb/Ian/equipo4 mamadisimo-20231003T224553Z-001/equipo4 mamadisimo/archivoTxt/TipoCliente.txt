@@ -1,0 +1,2 @@
+{ "CveTipoCliente" : 1, "DescripcionTipoCliente" : "Mayoreo" }
+{ "CveTipoCliente" : 2, "DescripcionTipoCliente" : "Menudeo" }
